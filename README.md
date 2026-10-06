@@ -1,4 +1,4 @@
-# Tır Filo ve Sefer Takip Yönetim Sistemi
+Tır Filo ve Sefer Takip Yönetim Sistemi
 
 Bu projede, lojistik firmalarının tır araçlarını, sürücülerini, yüklerini ve seferlerini ilişkisel bir veritabanında tutan, tırların sefer süreçlerini takip eden ve teslimat bilgilerini yöneten bir sistem geliştirilmesi amaçlanmaktadır.
 
@@ -28,15 +28,15 @@ Tırların bakım ve yakıt işlemleri de ilgili kayıtlarla birlikte sistemde t
 
 Veritabanı Tabloları
 
-* Tırlar
-* Sürücüler
+* Tirlar
+* Suruculer
 * Seferler
-* Yükler
-* Göndericiler
-* Alıcılar
+* Yukler
+* Gondericiler
+* Alicilar
 * Rotalar
 * Duraklar
 * Konum Takip
 * Teslimatlar
-* Bakımlar
-* Yakıt Kayıtları
+* Bakimlar
+* Yakit Kayitlari
